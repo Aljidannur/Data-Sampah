@@ -1,0 +1,62 @@
+SIPSN - Sistem Informasi Pengelolaan Sampah Nasional,,,,,,,,,
+Tahun,Provinsi,Kabupaten/Kota,Timbulan Sampah Tahunan (ton/tahun)(A),Pengurangan Sampah Tahunan (ton/tahun)(B),%Pengurangan Sampah(B/A),Penanganan Sampah Tahunan (ton/tahun)(C),%Penanganan Sampah(C/A),Sampah Terkelola Tahunan (ton/tahun)(B+C),%Sampah Terkelola(B+C)/A
+2019,Kalimantan Timur,Kab. Paser,"41,831.34","4,954.83",11.84,"24,217.75",57.89,"29,172.58",69.74
+2019,Kalimantan Timur,Kab. Kutai Kartanegara,"75,858.97","5,534.50",7.30,"16,961.55",22.36,"22,496.05",29.66
+2019,Kalimantan Timur,Kab. Berau,"59,040.68","5,112.11",8.66,"16,425.00",27.82,"21,537.11",36.48
+2019,Kalimantan Timur,Kab. Kutai Barat,"25,639.06",,,"10,482.97",40.89,"10,482.97",40.89
+2019,Kalimantan Timur,Kab. Kutai Timur,"77,355.18","10,645.85",13.76,"31,207.50",40.34,"41,853.35",54.11
+2019,Kalimantan Timur,Kab. Penajam Paser Utara,"39,386.69","4,026.11",10.22,"8,555.60",21.72,"12,581.71",31.94
+2019,Kalimantan Timur,Kab. Mahakam Ulu,"5,584.64",,,"1,460.00",26.14,"1,460.00",26.14
+2019,Kalimantan Timur,Kota Balikpapan,"167,397.98","33,910.60",20.26,237.25,0.14,"34,147.85",20.40
+2019,Kalimantan Timur,Kota Samarinda,"222,992.22","33,167.22",14.87,"163,081.23",73.13,"196,248.45",88.01
+2019,Kalimantan Timur,Kota Bontang,"37,122.72","6,808.07",18.34,"29,075.90",78.32,"35,883.97",96.66
+2020,Kalimantan Timur,Kab. Paser,"39,628.93","4,506.69",11.37,"24,572.13",62.01,"29,078.82",73.38
+2020,Kalimantan Timur,Kab. Kutai Kartanegara,"77,215.90","5,823.72",7.54,"17,927.78",23.22,"23,751.50",30.76
+2020,Kalimantan Timur,Kab. Berau,"59,040.68","5,112.11",8.66,"16,425.00",27.82,"21,537.11",36.48
+2020,Kalimantan Timur,Kab. Kutai Barat,"25,639.06",,,"10,482.97",40.89,"10,482.97",40.89
+2020,Kalimantan Timur,Kab. Kutai Timur,"77,355.18","10,645.85",13.76,"31,207.50",40.34,"41,853.35",54.11
+2020,Kalimantan Timur,Kab. Penajam Paser Utara,"39,889.94","10,835.71",27.16,"12,822.45",32.14,"23,658.16",59.31
+2020,Kalimantan Timur,Kab. Mahakam Ulu,"5,584.64",,,"1,460.00",26.14,"1,460.00",26.14
+2020,Kalimantan Timur,Kota Balikpapan,"175,865.25","39,021.15",22.19,237.25,0.13,"39,258.40",22.32
+2020,Kalimantan Timur,Kota Samarinda,"226,578.93","31,186.61",13.76,"166,657.18",73.55,"197,843.79",87.32
+2020,Kalimantan Timur,Kota Bontang,"37,769.85","7,446.62",19.72,"29,139.48",77.15,"36,586.10",96.87
+2021,Kalimantan Timur,Kab. Paser,"42,080.85","4,422.22",10.51,"25,528.00",60.66,"29,950.23",71.17
+2021,Kalimantan Timur,Kab. Kutai Kartanegara,"81,243.53","11,244.23",13.84,"56,433.96",69.46,"67,678.20",83.30
+2021,Kalimantan Timur,Kab. Berau,"59,040.68","5,112.11",8.66,"16,425.00",27.82,"21,537.11",36.48
+2021,Kalimantan Timur,Kab. Kutai Barat,"25,639.06",,,"10,482.97",40.89,"10,482.97",40.89
+2021,Kalimantan Timur,Kab. Kutai Timur,"77,461.58","15,598.70",20.14,"54,817.31",70.77,"70,416.01",90.90
+2021,Kalimantan Timur,Kab. Penajam Paser Utara,"33,766.52","7,539.89",22.33,"20,645.75",61.14,"28,185.64",83.47
+2021,Kalimantan Timur,Kab. Mahakam Ulu,"5,584.64",,,"1,460.00",26.14,"1,460.00",26.14
+2021,Kalimantan Timur,Kota Balikpapan,"181,479.86","43,788.93",24.13,"135,830.73",74.85,"179,619.65",98.97
+2021,Kalimantan Timur,Kota Samarinda,"212,376.71","33,608.66",15.83,"172,103.99",81.04,"205,712.65",96.86
+2021,Kalimantan Timur,Kota Bontang,"37,894.33","7,691.11",20.30,"30,069.06",79.35,"37,760.17",99.65
+2022,Kalimantan Timur,Kab. Paser,"43,300.97","4,574.67",10.56,"26,276.86",60.68,"30,851.53",71.25
+2022,Kalimantan Timur,Kab. Kutai Kartanegara,"114,524.75","18,837.64",16.45,"80,372.27",70.18,"99,209.91",86.63
+2022,Kalimantan Timur,Kab. Berau,"49,801.88","9,189.08",18.45,"24,936.80",50.07,"34,125.88",68.52
+2022,Kalimantan Timur,Kab. Kutai Barat,"25,639.06",,,"10,482.97",40.89,"10,482.97",40.89
+2022,Kalimantan Timur,Kab. Kutai Timur,"77,674.37","10,041.04",12.93,"35,748.10",46.02,"45,789.14",58.95
+2022,Kalimantan Timur,Kab. Penajam Paser Utara,"35,033.98","7,924.64",22.62,"21,429.15",61.17,"29,353.79",83.79
+2022,Kalimantan Timur,Kab. Mahakam Ulu,"5,584.64",,,"1,460.00",26.14,"1,460.00",26.14
+2022,Kalimantan Timur,Kota Balikpapan,"187,875.03","48,850.81",26,"137,337.89",73.1,"186,188.70",99.1
+2022,Kalimantan Timur,Kota Samarinda,"214,347.89","42,048.70",19.62,"171,784.81",80.14,"213,833.51",99.76
+2022,Kalimantan Timur,Kota Bontang,"38,046.40","10,185.67",26.77,"27,731.41",72.89,"37,917.08",99.66
+2023,Kalimantan Timur,Kab. Paser,"44,299.90","4,454.48",10.06,"27,440.35",61.94,"31,894.83",72.00
+2023,Kalimantan Timur,Kab. Kutai Kartanegara,"117,121.18","17,462.77",14.91,"78,939.61",67.40,"96,402.37",82.31
+2023,Kalimantan Timur,Kab. Berau,"51,282.14","9,605.89",18.73,"31,118.31",60.68,"40,724.20",79.41
+2023,Kalimantan Timur,Kab. Kutai Barat,"25,843.02",0.00,0.00,"10,776.99",41.70,"10,776.99",41.70
+2023,Kalimantan Timur,Kab. Kutai Timur,"77,706.13",407.45,0.52,"41,720.61",53.69,"42,128.06",54.21
+2023,Kalimantan Timur,Kab. Penajam Paser Utara,"35,873.30","7,252.76",20.22,"13,418.13",37.40,"20,670.89",57.62
+2023,Kalimantan Timur,Kab. Mahakam Ulu,"6,538.11",0.15,0.00,"2,555.00",39.08,"2,555.15",39.08
+2023,Kalimantan Timur,Kota Balikpapan,"193,038.43","52,142.72",27.01,"139,878.65",72.46,"192,021.37",99.47
+2023,Kalimantan Timur,Kota Samarinda,"218,799.98","43,203.88",19.75,"174,555.35",79.78,"217,759.23",99.52
+2023,Kalimantan Timur,Kota Bontang,"38,829.46","11,690.70",30.11,"27,016.15",69.58,"38,706.85",99.68
+2024,Kalimantan Timur,Kab. Paser,"44,299.90","4,396.04",9.92,"27,528.26",62.14,"31,924.30",72.06
+2024,Kalimantan Timur,Kab. Kutai Kartanegara,"135,200.79","21,197.61",15.68,"78,337.36",57.94,"99,534.97",73.62
+2024,Kalimantan Timur,Kab. Berau,"52,732.10","9,202.09",17.45,"33,921.88",64.33,"43,123.96",81.78
+2024,Kalimantan Timur,Kab. Kutai Barat,"26,297.37",24.71,0.09,"10,831.23",41.19,"10,855.94",41.28
+2024,Kalimantan Timur,Kab. Kutai Timur,"79,082.18","7,390.65",9.35,"39,226.37",49.60,"46,617.02",58.95
+2024,Kalimantan Timur,Kab. Penajam Paser Utara,"36,427.00","5,190.79",14.25,"18,551.64",50.93,"23,742.43",65.18
+2024,Kalimantan Timur,Kab. Mahakam Ulu,"6,744.85",91.25,1.35,"2,482.00",36.80,"2,573.25",38.15
+2024,Kalimantan Timur,Kota Balikpapan,"195,151.92","48,821.26",25.02,"141,064.90",72.28,"189,886.16",97.30
+2024,Kalimantan Timur,Kota Samarinda,"220,209.83","18,145.92",8.24,"87,820.06",39.88,"105,965.98",48.12
+2024,Kalimantan Timur,Kota Bontang,"38,962.93","11,127.39",28.56,"27,710.07",71.12,"38,837.46",99.68
